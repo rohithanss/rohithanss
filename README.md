@@ -1,6 +1,6 @@
 ## rohithanss ##
 
-- Tech Stack
+<h2>Tech Stack<h2/>
 ---
 > HTML
 ---
