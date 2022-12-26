@@ -4,7 +4,7 @@
 
 
 <h2>Tech Stack<h2/>
-  
+
 ---
 > HTML
 ---
@@ -19,6 +19,7 @@
 > Mongo DB
 
 <h2>Tools<h2/>
+
 --- 
 > VS Code
 ---
