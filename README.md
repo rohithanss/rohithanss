@@ -16,8 +16,7 @@
 <h2>Tools<h2/>
 
 --- 
+> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/768px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519" style="width:50px" alt="HTML icon"/>
 > VS Code
----
 >Git
----
 >GitHub
