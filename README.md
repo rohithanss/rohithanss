@@ -1,12 +1,12 @@
 ## rohithanss ##
-
+---
 - Tech Stack
---- HTML
---- CSS
---- JavaScript
---- Node JS
---- Express JS
---- Mongo DB
+> HTML
+> CSS
+> JavaScript
+> Node JS
+> Express JS
+> Mongo DB
 
 - Tools
 --- VS Code
