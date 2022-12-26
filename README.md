@@ -6,7 +6,7 @@
 <h2>Tech Stack<h2/>
   
 ---
->  <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" style="width:50px" alt="HTML icon"/>
+>  <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" style="width:50px" alt="HTML icon"/> HTML
 
   
 ---
