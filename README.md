@@ -1,4 +1,4 @@
-# <img src='https://i.imgur.com/tSg8DkZ.png' style="height:100px; margin:0 0 10px 0" alt='hi'> <img src='https://i.imgur.com/RWtkQe0.gif' style="height:100px; alt='hi'>
+# <img src='https://i.imgur.com/tSg8DkZ.png' style="height:100px; margin:0 0 10px 0" alt='hi'> <img src='https://i.imgur.com/RWtkQe0.gif' style="height:100px;" alt='hi'>
 
 # <h1> rohithanss <h1/>
 
