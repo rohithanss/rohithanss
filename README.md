@@ -2,7 +2,7 @@
 
 
 
-# <img src="https://i.imgur.com/UldFLKE.jpeg" alt="about" style="width:50px" />  ABOUT 
+# <img src="https://i.imgur.com/OdGds93.png" alt="about" style="width:50px" />  ABOUT 
 
 A passionate and adaptable web developer, skilled in JavaScript, Node JS, Express, MongoDB, with proficiency in problem-solving.. A dependable and responsible team   player with an eye to detail. Looking for a position to enhance skills while significantly contributing to the company's growth. 
 
