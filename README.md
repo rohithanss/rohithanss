@@ -6,7 +6,7 @@
 
 A passionate and adaptable web developer, skilled in JavaScript, Node JS, Express, MongoDB, with proficiency in problem-solving.. A dependable and responsible team   player with an eye to detail. Looking for a position to enhance skills while significantly contributing to the company's growth. 
 
-# <a href="https://rohithanss.github.io" target="_blank" style="height:100px; display:block;"> <img src='https://i.imgur.com/gZeGoUc.png' style="height:100px;" alt='hi'> <a/> <a href="https://rohithanss.github.io" target="_blank" style="color:black;"> Rohit Hans <a/>
+# <a href="https://rohithanss.github.io" target="_blank" style="height:100px; display:block;"> <img src='https://i.imgur.com/gZeGoUc.png' style="height:50px;" alt='hi'> <a/>  [Resume](https://rohithanss.github.io)
   
 <h2>Tech Stack<h2/>
   
