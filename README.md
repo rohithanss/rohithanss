@@ -2,7 +2,7 @@
 
 
 
-<h2> ABOUT <h2/>
+# <img src="https://i.imgur.com/UldFLKE.jpeg" alt="about"/ style="height=55px"> <h1> ABOUT <h1/>
 
 A passionate and adaptable web developer, skilled in JavaScript, Node JS, Express, MongoDB, with proficiency in problem-solving.. A dependable and responsible team   player with an eye to detail. Looking for a position to enhance skills while significantly contributing to the company's growth. 
 
