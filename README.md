@@ -10,7 +10,6 @@ A passionate and adaptable web developer, skilled in JavaScript, Node JS, Expres
   
 <h2>Tech Stack<h2/>
   
-
 <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" style="width:50px" alt="HTML icon"/>
 <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" style="width:50px" alt="HTML icon"/>
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" style="width:50px" alt="HTML icon"/>
@@ -20,10 +19,9 @@ A passionate and adaptable web developer, skilled in JavaScript, Node JS, Expres
 
 <h2>Tools<h2/>
 
---- 
-> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/768px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519" style="width:50px" alt="HTML icon"/>
-> <img src="https://git-scm.com/images/logos/logomark-orange@2x.png" style="width:50px" alt="HTML icon"/>
-> <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" style="width:50px" alt="HTML icon"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/768px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519" style="width:50px" alt="HTML icon"/>
+<img src="https://git-scm.com/images/logos/logomark-orange@2x.png" style="width:50px" alt="HTML icon"/>
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" style="width:50px" alt="HTML icon"/>
 
 <h2> GitHub Trophies <h2/>
   
