@@ -29,4 +29,4 @@ A passionate and adaptable web developer, skilled in JavaScript, Node JS, Expres
   
 <h2> GitHub Stats <h2/>
   
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohithanss&show_icons=true&locale=en" alt="rohithanss" style="margin-right:10px"/><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohithanss&" alt="rohithanss" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohithanss&show_icons=true&locale=en" alt="rohithanss" style="margin-right:10px; width:45%"/><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohithanss&" alt="rohithanss" style="width:45%"/>
