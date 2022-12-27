@@ -2,11 +2,11 @@
 
 
 
-# <img src="https://i.imgur.com/OdGds93.png" alt="about" style="height:50px" />  ABOUT 
+# <img src="https://i.imgur.com/OdGds93.png" alt="about" style="height:50px" />  [ABOUT](https://rohithanss.github.io)
 
 A passionate and adaptable web developer, skilled in JavaScript, Node JS, Express, MongoDB, with proficiency in problem-solving.. A dependable and responsible team   player with an eye to detail. Looking for a position to enhance skills while significantly contributing to the company's growth. 
 
-# <a href="https://rohithanss.github.io" target="_blank" style="height:100px; display:block;"> <img src='https://i.imgur.com/gZeGoUc.png' style="height:50px;" alt='hi'> <a/>  [Resume](https://rohithanss.github.io)
+# <a href="https://rohithanss.github.io" target="_blank" style="height:100px; display:block;"> <img src='https://i.imgur.com/gZeGoUc.png' style="height:50px;" alt='hi'> <a/>  [Resume](https://drive.google.com/file/d/1KgSS-PqvQ1po2f-xC0nlN2TlEEy5MewN/view?usp=share_link)
   
 <h2>Tech Stack<h2/>
   
