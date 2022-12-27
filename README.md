@@ -25,6 +25,10 @@ A passionate and adaptable web developer, skilled in JavaScript, Node JS, Expres
 > <img src="https://git-scm.com/images/logos/logomark-orange@2x.png" style="width:50px" alt="HTML icon"/>
 > <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" style="width:50px" alt="HTML icon"/>
 
-<h2> GitHub Stats <h2/>
+<h2> GitHub Trophies <h2/>
   
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohithanss" alt="rohithanss" /></a> </p>
+  
+<h2> GitHub Stats <h2/>
+  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohithanss&show_icons=true&locale=en" alt="rohithanss" /></p>
