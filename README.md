@@ -5,7 +5,7 @@
 <!-- <h3 align="center"> I'm Rohit Hans <br/>Full Stack Web Developer</h3> -->
 <img src="https://i.imgur.com/gzmqbnH.png" alt="portfolio-ss" />
 
-# <img src="https://i.imgur.com/gzmqbnH.png" alt="about" style="height:50px" />  [ABOUT](https://rohithanss.github.io)
+# <img src="https://i.imgur.com/OdGds93.png" alt="about" style="height:50px" />  [ABOUT](https://rohithanss.github.io)
 
 A passionate and adaptable web developer, skilled in JavaScript, Node JS, Express, MongoDB, with proficiency in problem-solving.. A dependable and responsible team   player with an eye to detail. Looking for a position to enhance once skills while significantly contributing to the company's growth. 
 
