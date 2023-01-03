@@ -3,7 +3,7 @@
 <!-- ![Profile views](https://gpvc.arturio.dev/rohithanss) -->
 
 <!-- <h3 align="center"> I'm Rohit Hans <br/>Full Stack Web Developer</h3> -->
-<img src="https://i.imgur.com/8bTNcpe.png" alt="portfolio-ss" />
+<img src="https://i.imgur.com/gzmqbnH.png" alt="portfolio-ss" />
 
 # <img src="https://i.imgur.com/gzmqbnH.png" alt="about" style="height:50px" />  [ABOUT](https://rohithanss.github.io)
 
