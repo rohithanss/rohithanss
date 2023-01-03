@@ -1,10 +1,13 @@
 # <img src='https://i.imgur.com/tSg8DkZ.png' style="height:100px; margin:0 0 10px 0" alt='hi'> <img src='https://i.imgur.com/RWtkQe0.gif' style="height:100px;" alt='hi'>
 
 <!-- ![Profile views](https://gpvc.arturio.dev/rohithanss) -->
+<h1 align="center"> I'm Rohit Hans</h1>
+<h3 align="center"> Full Stack Web Developer</h3>
+
 
 # <img src="https://i.imgur.com/OdGds93.png" alt="about" style="height:50px" />  [ABOUT](https://rohithanss.github.io)
 
-A passionate and adaptable web developer, skilled in JavaScript, Node JS, Express, MongoDB, with proficiency in problem-solving.. A dependable and responsible team   player with an eye to detail. Looking for a position to enhance skills while significantly contributing to the company's growth. 
+A passionate and adaptable web developer, skilled in JavaScript, Node JS, Express, MongoDB, with proficiency in problem-solving.. A dependable and responsible team   player with an eye to detail. Looking for a position to enhance once skills while significantly contributing to the company's growth. 
 
 # <a href="https://rohithanss.github.io" target="_blank" style="height:100px; display:block;"> <img src='https://i.imgur.com/gZeGoUc.png' style="height:50px;" alt='hi'> <a/>  [Resume](https://drive.google.com/file/d/1KgSS-PqvQ1po2f-xC0nlN2TlEEy5MewN/view?usp=share_link)
   
