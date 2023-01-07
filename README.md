@@ -9,7 +9,7 @@
 
 A passionate and adaptable web developer, skilled in JavaScript, Node JS, Express, MongoDB, with proficiency in problem-solving.. A dependable and responsible team   player with an eye to detail. Looking for a position to enhance once skills while significantly contributing to the company's growth. 
 
-# <a href="https://rohithanss.github.io" target="_blank" style="height:100px; display:block;"> <img src='https://i.imgur.com/gZeGoUc.png' style="height:50px;" alt='hi'> <a/>  [Resume](https://drive.google.com/file/d/1KgSS-PqvQ1po2f-xC0nlN2TlEEy5MewN/view?usp=share_link) <a href="https://rohithanss.github.io" target="_blank" style="height:100px; display:block;"> <img src='https://i.imgur.com/gZeGoUc.png' style="height:50px; margin-left:20px;" alt='hi'> <a/>  [Portfolio](https://rohithanss.github.io) <a href="https://rohithanss.github.io" target="_blank" style="height:100px; display:block;"> <img src='https://i.imgur.com/gZeGoUc.png' style="height:50px;  margin-left:20px;" alt='hi'> <a/>  [Linkedin](https://linkedin.com/in/rohithanss)
+# <a href="https://drive.google.com/file/d/1KgSS-PqvQ1po2f-xC0nlN2TlEEy5MewN/view?usp=share_link" target="_blank" style="height:100px; display:block;"> <img src='https://i.imgur.com/gZeGoUc.png' style="height:50px;" alt='hi'> Resume <a/>  <a href="https://rohithanss.github.io" target="_blank" style="height:100px; display:block;"> <img src='https://i.imgur.com/gZeGoUc.png' style="height:50px; margin-left:20px;" alt='hi'> Portfolio <a/>  <a href="https://rohithanss.github.io" target="_blank" style="height:100px; display:block;"><a href="https://linkedin.com/in/rohithanss"> <img src='https://i.imgur.com/gZeGoUc.png' style="height:50px;  margin-left:20px;" alt='hi'>  Linkedin</a>
   
 <h2>Tech Stack<h2/>
   
