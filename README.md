@@ -3,8 +3,8 @@
 # <img src='https://i.imgur.com/tSg8DkZ.png' style="height:100px; margin:0 0 10px 0" alt='hi'> <img src='https://i.imgur.com/RWtkQe0.gif' style="height:100px;" alt='hi'>
 
 
-<!-- <h3 align="center"> I'm Rohit Hans <br/>Full Stack Web Developer</h3> -->
-<img src="https://i.imgur.com/gzmqbnH.png" alt="portfolio-ss" />
+<h3 align="center"> I'm Rohit Hans <br/>Full Stack Web Developer</h3>
+<!-- <img src="https://i.imgur.com/gzmqbnH.png" alt="portfolio-ss" /> -->
 
 # <img src="https://i.imgur.com/OdGds93.png" alt="about" style="height:50px" />  ABOUT
 
