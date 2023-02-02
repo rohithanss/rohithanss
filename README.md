@@ -20,7 +20,8 @@ A passionate and adaptable web developer, skilled in JavaScript, Node JS, Expres
 <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" style="width:50px" alt="HTML icon"/>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" style="width:50px" alt="HTML icon"/>
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" style="width:50px" alt="HTML icon"/>
-
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
+  
 <h2>Tools<h2/>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/768px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519" style="width:50px" alt="HTML icon"/>
