@@ -1,7 +1,7 @@
 ![Profile views](https://gpvc.arturio.dev/rohithanss)
 
 # <img src='https://i.imgur.com/tSg8DkZ.png' style="height:100px; margin:0 0 10px 0" alt='hi'> <img src='https://i.imgur.com/RWtkQe0.gif' style="height:100px;" alt='hi'><h1 align="center"> I'm Rohit Hans</h1> 
-<h2> Full Stack Web Developer </h2>
+<h2 align="center"> Full Stack Web Developer </h2>
 
 
 
