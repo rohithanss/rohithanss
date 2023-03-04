@@ -24,7 +24,7 @@ A passionate and adaptable web developer, skilled in JavaScript, Node JS, Expres
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" style="width:50px" alt="HTML icon"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50px" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="50px"/>
-  
+  <img src="https://rohithanss.github.io/skills/socket.png" alt="redis" width="50px"/>
 <h2>Tools<h2/>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/768px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519" style="width:50px" alt="HTML icon"/>
